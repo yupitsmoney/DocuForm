@@ -1,0 +1,10 @@
+.form{
+	-webkit-filter:blue(80%);
+    transition: -webkit-filter .3s linear;
+    display: none;
+    height: 25px;
+    color: black;
+}
+.jumbotron {
+	background-color: white; 
+}
